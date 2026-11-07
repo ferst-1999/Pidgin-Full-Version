@@ -238,4 +238,4 @@ This repository serves as the official landing page for Pidgin. The software is 
 **Get the most recent version of Pidgin today!**
 
 ---
-**Last updated:** 2026-11-07 13:48:30 UTC
+**Last updated:** 2026-11-07 18:31:44 UTC
